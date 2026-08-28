@@ -73,6 +73,10 @@
 
 如果这个技能包对你有帮助，欢迎请盘叔喝杯茶。
 
+<p align="center">
+  <img src="./appreciation.jpg" alt="赞赏二维码" width="280" />
+</p>
+
 ---
 
 > 公众号：【野生你盘叔】 出品
